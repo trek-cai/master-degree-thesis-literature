@@ -1,0 +1,7 @@
+[8]	Sun J, Shi H, Wang Z, et al. Inferring novel lncRNA–disease associations based on a random walk model of a lncRNA functional similarity network[J]. Molecular BioSystems, 2014, 10(8): 2074-2081.
+[9]	Chen X, You Z-H, Yan G-Y, et al. IRWRLDA: improved random walk with restart for lncRNA-disease association prediction[J]. Oncotarget, 2016, 7(36): 57919.
+[10]	Gu C, Liao B, Li X, et al. Global network random walk for predicting potential human lncRNA-disease associations[J]. Scientific reports, 2017, 7(1): 1-11.
+[11]	Wang Y, Juan L, Peng J, et al. LncDisAP: a computation model for LncRNA-disease association prediction based on multiple biological datasets[J]. BMC Bioinformatics, 2019, 20(16): 1-11.
+[12]	Li J, Zhao H, Xuan Z, et al. A novel approach for potential human LncRNA-disease association prediction based on local random walk[J]. IEEE/ACM transactions on computational biology and bioinformatics, 2019, 18(3): 1049-1059.
+[13]	Chen X. KATZLDA: KATZ measure for the lncRNA-disease association prediction[J]. Scientific reports, 2015, 5(1): 1-11.
+[14]	Zhang J, Zhang Z, Chen Z, et al. Integrating multiple heterogeneous networks for novel lncRNA-disease association inference[J]. IEEE/ACM transactions on computational biology and bioinformatics, 2017, 16(2): 396-406.

@@ -1,0 +1,6 @@
+[15]	Wang M-N, You Z-H, Wang L, et al. LDGRNMF: LncRNA-disease associations prediction based on graph regularized non-negative matrix factorization[J]. Neurocomputing, 2021, 424: 236-245.
+[16]	Fu G, Wang J, Domeniconi C, et al. Matrix factorization-based data fusion for the prediction of lncRNA–disease associations[J]. Bioinformatics, 2018, 34(9): 1529-1537.
+[17]	Zeng M, Lu C, Zhang F, et al. SDLDA: lncRNA-disease association prediction based on singular value decomposition and deep learning[J]. Methods, 2020, 179: 73-80.
+[18]	Lu C, Yang M, Li M, et al. Predicting human lncRNA-disease associations based on geometric matrix completion[J]. IEEE Journal of Biomedical and Health Informatics, 2019, 24(8): 2420-2429.
+[19]	Lu C, Yang M, Luo F, et al. Prediction of lncRNA–disease associations based on inductive matrix completion[J]. Bioinformatics, 2018, 34(19): 3357-3364.
+[20]	Liu J-X, Gao M-M, Cui Z, et al. DSCMF: prediction of LncRNA-disease associations based on dual sparse collaborative matrix factorization[J]. BMC Bioinformatics, 2021, 22(3): 1-18.
